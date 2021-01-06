@@ -1,0 +1,19 @@
+{
+	"path_loginCheck":"http://192.168.0.104:8088/api/loginCheck",
+	"path_login":"http://192.168.0.104:8088/api/login",
+	"path_getHomeData":"http://192.168.0.104:8088/api/getData",	
+	"path_addBd":"http://192.168.0.104:8088/api/addBd",
+	"path_getOneDaili":"http://192.168.0.104:8088/api/getOneDaili",	
+	"path_getTwoDaili":"http://192.168.0.104:8088/api/getTwoDaili",	
+	"path_getUpNum":"http://192.168.0.104:8088/api/getUpNum",
+	"path_getDailiRecive":"http://192.168.0.104:8088/api/getDailiRecive",
+	"path_getBdData":"http://192.168.0.104:8088/api/getBdData",
+	"path_getOneAgent":"http://192.168.0.104:8088/api/getOneAgent",
+	"path_getTwoAgent":"http://192.168.0.104:8088/api/getTwoAgent",
+	"path_updatePwd":"http://192.168.0.104:8088/api/updatePwd",	
+	"path_getQianYue":"http://192.168.0.104:8088/api/getQianYue",
+	"path_getQianYue2":"http://192.168.0.104:8088/api/getQianYue2",	
+	"path_getRecive":"http://192.168.0.104:8088/api/getRecive",	
+	"path_getUserRecive":"http://192.168.0.104:8088/api/getUserRecive",
+	"path_removeBd":"http://192.168.0.104:8088/api/removeBd"
+}

@@ -1,0 +1,18 @@
+{
+	"path_loginCheck":"http://192.168.0.103:8088/api/loginCheck",	//统一登录接口
+	"path_login":"http://192.168.0.103:8088/api/login",	//首次登录接口
+	"path_getHomeData":"http://192.168.0.103:8088/api/getData",	//获取首页数据接口
+	"path_addBd":"http://192.168.0.103:8088/api/addBd",	//增加报单接口
+	"path_getOneDaili":"http://192.168.0.103:8088/api/getOneDaili",	//获取一级代理人数接口
+	"path_getTwoDaili":"http://192.168.0.103:8088/api/getTwoDaili",	//获取二级代理人数接口
+	"path_getUpNum":"http://192.168.0.103:8088/api/getUpNum",	//获取上级代理电话接口
+	"path_getDailiRecive":"http://192.168.0.103:8088/api/getDailiRecive",	//获取代理收益接口
+	"path_getBdData":"http://192.168.0.103:8088/api/getBdData",	//获取报单数据接口
+	"path_getOneAgent":"http://192.168.0.103:8088/api/getOneAgent",	//获取一级代理数据接口
+	"path_getTwoAgent":"http://192.168.0.103:8088/api/getTwoAgent",	//获取二级代理数据接口
+	"path_updatePwd":"http://192.168.0.103:8088/api/updatePwd",	//更改密码接口
+	"path_getQianYue":"http://192.168.0.103:8088/api/getQianYue",	//获取我的签约会员消费数据接口
+	"path_getQianYue2":"http://192.168.0.103:8088/api/getQianYue2",	//获取我的签约产品消费数据接口
+	"path_getRecive":"http://192.168.0.103:8088/api/getRecive",	//获取累计收益数据接口
+	"path_getUserRecive":"http://192.168.0.103:8088/api/getUserRecive"//获取产品收益数据接口
+}
